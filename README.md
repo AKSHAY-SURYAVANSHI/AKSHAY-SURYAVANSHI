@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Blockchain bots**
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **DSA, Web Development**
 
